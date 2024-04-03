@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "items": [
+      {
+        "id": "m3",
+        "name": "Caesar Salad",
+        "price": "7.99",
+        "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+        "image": "images/caesar-salad.jpg",
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "vathsa",
+      "email": "dhinesh123@gmail.com",
+      "street": "NORTH STREET",
+      "postal-code": "1",
+      "city": "CBE"
+    },
+    "id": "836.3664460561215"
+  },
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "vathsa",
+      "email": "dhinesh123@gmail.com",
+      "street": "NORTH STREET",
+      "postal-code": "1",
+      "city": "CBE"
+    },
+    "id": "453.09070702332946"
+  }
+]
